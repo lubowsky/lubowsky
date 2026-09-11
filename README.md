@@ -1,16 +1,40 @@
-## Hi there 👋
+# Виктория Осипова
 
-<!--
-**lubowsky/lubowsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 1С-разработчик | Frontend-разработчик
 
-Here are some ideas to get you started:
+Инженер-разработчик с высшим техническим образованием и более чем 20-летним опытом в IT, включая 7+ лет коммерческой разработки ПО.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Завершила обучение по программе «Разработчик 1С» в Яндекс Практикуме. Имею опыт разработки учебных конфигураций на 1С:Предприятие 8.3 и практический опыт коммерческой frontend-разработки.
+
+## 1С
+
+- 1С:Предприятие 8.3
+- БСП
+- управляемые формы
+- язык запросов
+- СКД
+- регистры накопления и сведений
+- документы и проведение
+- бухгалтерский и оперативный учет
+- загрузка данных из XML и Excel
+
+## Frontend
+
+- React
+- TypeScript
+- Redux / Redux Toolkit
+- GraphQL
+- Ant Design
+- Vite
+
+## Python
+
+- Python
+- разработка небольших прикладных проектов
+
+## Дополнительно
+
+- Git / GitHub
+- Node.js
+- MongoDB
+- Docker
